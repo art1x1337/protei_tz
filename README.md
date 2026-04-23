@@ -71,8 +71,8 @@ npm run preview
 
 ## Ссылки
 
-- Deploy: [добавить ссылку]
-- GitHub: [добавить ссылку]
+- Deploy: https://protei-tz.vercel.app/
+- GitHub: https://github.com/art1x1337/protei_tz
 
 ## Примечание
 
